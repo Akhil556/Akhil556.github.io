@@ -1,0 +1,26 @@
+
+h1 {
+    text-align: center;
+    font-style: normal;
+    font-size:50px;
+}
+
+h2 {
+  background-color:white;
+  font-style: normal;
+  font-size:20;
+  color: rgb(31, 31, 150);
+}
+
+
+
+#first { color: rgba(7, 15, 9, 0.863);
+}
+
+.head{
+  color:rgb(228, 13, 13);
+}
+
+a:link {
+  color: green;
+}
